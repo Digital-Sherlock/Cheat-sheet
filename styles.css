@@ -2,6 +2,7 @@ body {
     font-family: Georgia, Times, serif;
 }
 
+<<<<<<< HEAD
 header {
     text-align: center;
     background-color: gold;
@@ -10,4 +11,29 @@ header {
 #intro-paragraph {
     font-size: 20px;
     font-family: cursive;
+=======
+table{
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid blueviolet;
+}
+
+td {
+    border-top: 1px solid blueviolet;
+    border-left: 1px solid blueviolet;
+    border-right: 1px solid blueviolet;
+    background-color: rgb(218, 213, 213);
+}
+.table-name {
+    text-align: center;
+}
+
+.table-head {
+    background-color: orangered;
+}
+
+.attr-name,
+.tag-name {
+    font-weight: bold;
+>>>>>>> main-content
 }
