@@ -1,4 +1,13 @@
 body {
-    font-family: Gergia, Times, serif;
+    font-family: Georgia, Times, serif;
 }
 
+header {
+    text-align: center;
+    background-color: gold;
+}
+
+#intro-paragraph {
+    font-size: 20px;
+    font-family: cursive;
+}
