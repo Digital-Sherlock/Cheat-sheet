@@ -2,7 +2,6 @@ body {
     font-family: Georgia, Times, serif;
 }
 
-<<<<<<< HEAD
 header {
     text-align: center;
     background-color: gold;
@@ -11,8 +10,9 @@ header {
 #intro-paragraph {
     font-size: 20px;
     font-family: cursive;
-=======
-table{
+}
+
+table {
     margin-left: auto;
     margin-right: auto;
     border: 2px solid blueviolet;
@@ -35,5 +35,4 @@ td {
 .attr-name,
 .tag-name {
     font-weight: bold;
->>>>>>> main-content
 }
